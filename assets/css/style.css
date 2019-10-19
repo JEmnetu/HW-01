@@ -24,7 +24,6 @@ footer {
     border-top: 8px solid #4aaaa5;
     position: fixed;
     bottom: 0;
-    /* left: 0; */
     width: 100%;
     font-size: .7em;
     height: 5%;
@@ -32,12 +31,10 @@ footer {
 
 header {
     background-color: #ffffff;
-    /* float: left; */
     width: 100vw;
     height: 10%;
     margin-bottom: 50px;
     border-bottom: solid 2px #dddddd;
-    /* height: 10px; */
 }
 
 main {
@@ -55,8 +52,6 @@ nav li {
     float: left;
     display: inline-block;
     padding: 5px;
-    /* margin-right: 20%;
-    padding-right: 10px; */
 }
 
 nav a {
@@ -71,14 +66,6 @@ nav ul {
     right: 0;
     top: 0;
 }
-
-
-/* #Name {
-    background-color: #4aaaa5;
-    width: 20%;
-    padding: 20px;
-    color: white;
-} */
 
 #Contact,
 #About,
@@ -113,7 +100,6 @@ nav ul {
     padding: 20px;
     font-size: 25px;
     display: inline-block;
-    /* font-size: 1.8em; */
 }
 
 form {
@@ -160,11 +146,6 @@ h4 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-
-/* h4 {
-    color:
-} */
-
 p {
     line-height: 1.6em;
     padding-top: 10px;
@@ -173,8 +154,3 @@ p {
 span {
     color: #ffffff
 }
-
-
-/* #wrapper{
-    positio
-} */
